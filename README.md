@@ -16,11 +16,11 @@
 ---
 
 ### 🔥 Мои топ-проекты  
-1. **[Название проекта](https://github.com/EvgeniiAndronov/AirflowBotApiYandexGPT)**  
+1. **[Бот шутник для телеграмма](https://github.com/EvgeniiAndronov/AirflowBotApiYandexGPT)**  
    Заставил нейросеть от яндекса придумыфвать анекдоты и кидать их в телеграм канал =)
    ![Python](https://img.shields.io/badge/-Python-3776AB)
 
-2. **[Ещё проект](https://github.com/EvgeniiAndronov/interpretator)**  
+2. **[Интерпретатор на Rust](https://github.com/EvgeniiAndronov/interpretator)**  
    Изучаю принцип работы интерпретатора, пишу свой аналог на расте.  
    ![Rust](https://img.shields.io/badge/-Rust-000000)  
 
