@@ -16,7 +16,7 @@
 ---
 
 ### 🔥 Мои топ-проекты  
-1. **[Название проекта]((https://github.com/EvgeniiAndronov/AirflowBotApiYandexGPT))**  
+1. **[Название проекта](https://github.com/EvgeniiAndronov/AirflowBotApiYandexGPT)**  
    Заставил нейросеть от яндекса придумыфвать анекдоты и кидать их в телеграм канал =)
    ![Python](https://img.shields.io/badge/-Python-3776AB)
 
@@ -27,9 +27,9 @@
 ---
 
 ### 📊 Статистика GitHub  
-![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-юзер&show_icons=true&theme=radical&hide_border=true)  
+![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniiAndronov&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-юзер&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiAndronov&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
