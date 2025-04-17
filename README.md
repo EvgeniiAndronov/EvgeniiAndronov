@@ -27,10 +27,9 @@
 ---
 
 ### 📊 Статистика GitHub  
-![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniiAndronov&show_icons=true&theme=radical&hide_border=true)  
+![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniiAndronov&show_icons=true&theme=radical&hide_border=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiAndronov&layout=compact&theme=radical&hide_border=true)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiAndronov&layout=compact&theme=radical&hide_border=true&hide=Jupyter,HTML,Makefile&langs_count=2)
 ---
 
 ### 💬 Цитата  
