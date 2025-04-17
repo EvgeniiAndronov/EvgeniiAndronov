@@ -7,6 +7,7 @@
 **Языки:**  
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
 
 **Инструменты:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
