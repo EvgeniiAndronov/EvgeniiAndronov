@@ -5,9 +5,9 @@
 
 ### 🛠️ Мой стек технологий  
 **Языки:**  
+![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
 ![Rust](https://c0.klipartz.com/pngpicture/114/914/gratis-png-lenguaje-de-programacion-de-oxido-logotipo-de-la-maquina-de-aprendizaje-haskell-cangrejo.png)
 ![Python](https://lh5.googleusercontent.com/brLL_Cjt27_7cecWGylb_WwZjSLNfGwDHjDaNoGTXuJsaqRFg-YQXarbxhNQexc-NxPPPSat7w04l1ShLNpTRzfJixtMg27MfPtK_ZGEFw9T-OHZFS-tR_RPk3xDvcNTUasTLLVXt2_MyJzZpM5L3OhTtyHv5Y_WgxaWnNa6aHB8VudH_yoGiQv3MagICq3bTJGUDg)
-![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
 
 **Инструменты:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
