@@ -6,7 +6,7 @@
 ### 🛠️ Мой стек технологий  
 **Языки:**  
 ![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
-![Rust](https://www.bleepstatic.com/content/hl-images/2021/04/03/rust-bg.jpeg)
+![Rust](https://avatars.githubusercontent.com/u/15051982?s=200&v=4)
 ![Python](https://lh5.googleusercontent.com/brLL_Cjt27_7cecWGylb_WwZjSLNfGwDHjDaNoGTXuJsaqRFg-YQXarbxhNQexc-NxPPPSat7w04l1ShLNpTRzfJixtMg27MfPtK_ZGEFw9T-OHZFS-tR_RPk3xDvcNTUasTLLVXt2_MyJzZpM5L3OhTtyHv5Y_WgxaWnNa6aHB8VudH_yoGiQv3MagICq3bTJGUDg)
 
 **Инструменты:**  
