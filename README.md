@@ -5,7 +5,7 @@
 
 ### 🛠️ Мой стек технологий  
 **Языки:**  
-![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
+![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWahMOgO2wl5nH5LpJ_RA-YkXnbtX7ChAYw&s)
 ![Rust](https://avatars.githubusercontent.com/u/15051982?s=200&v=4)
 ![Python](https://static.vecteezy.com/system/resources/thumbnails/044/764/384/small_2x/python-programing-language-icon-3d-rendering-illustration-png.png)
 
