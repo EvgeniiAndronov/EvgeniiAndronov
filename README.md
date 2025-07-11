@@ -7,7 +7,7 @@
 **Языки:**  
 ![Golang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRMW3hxV4YIijHYbqlpjqleh3hdZFz_QoAw&s)
 ![Rust](https://avatars.githubusercontent.com/u/15051982?s=200&v=4)
-![Python](https://lh5.googleusercontent.com/brLL_Cjt27_7cecWGylb_WwZjSLNfGwDHjDaNoGTXuJsaqRFg-YQXarbxhNQexc-NxPPPSat7w04l1ShLNpTRzfJixtMg27MfPtK_ZGEFw9T-OHZFS-tR_RPk3xDvcNTUasTLLVXt2_MyJzZpM5L3OhTtyHv5Y_WgxaWnNa6aHB8VudH_yoGiQv3MagICq3bTJGUDg)
+![Python](https://static.vecteezy.com/system/resources/thumbnails/044/764/384/small_2x/python-programing-language-icon-3d-rendering-illustration-png.png)
 
 **Инструменты:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
