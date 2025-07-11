@@ -6,7 +6,7 @@
 ### 🛠️ Мой стек технологий  
 **Языки:**  
 ![Golang](https://img.icons8.com/?size=512&id=44442&format=png)
-![Rust](https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png)
+![Rust](https://image.pngaaa.com/303/4373303-middle.png)
 ![Python](https://static.vecteezy.com/system/resources/thumbnails/044/764/384/small_2x/python-programing-language-icon-3d-rendering-illustration-png.png)
 
 **Инструменты:**  
