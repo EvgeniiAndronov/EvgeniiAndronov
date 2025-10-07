@@ -26,8 +26,9 @@
    ![Rust](https://img.shields.io/badge/-Rust-000000)  
 
 3. **[Rono - язык программирования](https://github.com/EvgeniiAndronov/Rono)**
-   Интерпретируемый язык программирования, имеющий все базовые функции 
-   ![Rust](https://img.shields.io/badge/-Rust-000000)  
+   Интерпретируемый язык программирования, имеющий все базовые функции.
+   ![Rust](https://img.shields.io/badge/-Rust-000000)
+
 
 ---
 
