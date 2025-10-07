@@ -5,7 +5,7 @@
 
 ### 🛠️ Мой стек технологий  
 **Языки:**  
-![Golang](https://img.icons8.com/?size=256&id=44442&format=png)
+![Golang](https://img.icons8.com/?size=512&id=44442&format=png)
 ![Rust](https://rustfoundation.org/wp-content/uploads/2024/12/Untitled-design-1.png)
 ![Python](https://static.vecteezy.com/system/resources/thumbnails/044/764/384/small_2x/python-programing-language-icon-3d-rendering-illustration-png.png)
 
