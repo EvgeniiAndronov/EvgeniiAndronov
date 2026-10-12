@@ -16,11 +16,7 @@
    Заставил нейросеть от яндекса придумыфвать анекдоты и кидать их в телеграм канал =)
    ![Python](https://img.shields.io/badge/-Python-3776AB)
 
-2. **[Интерпретатор на Rust](https://github.com/EvgeniiAndronov/interpretator)**  
-   Изучаю принцип работы интерпретатора, пишу свой аналог на расте.  
-   ![Rust](https://img.shields.io/badge/-Rust-000000)  
-
-3. **[Rono - язык программирования](https://github.com/EvgeniiAndronov/Rono)**
+2. **[Rono - язык программирования](https://github.com/EvgeniiAndronov/Rono)**
    Интерпретируемый язык программирования, имеющий все базовые функции.
    ![Rust](https://img.shields.io/badge/-Rust-000000)
 
